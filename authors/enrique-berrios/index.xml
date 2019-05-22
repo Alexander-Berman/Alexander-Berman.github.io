@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrique Berrios on Alexander Berman</title>
+    <link>/authors/enrique-berrios/</link>
+    <description>Recent content in Enrique Berrios on Alexander Berman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/enrique-berrios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</title>
+      <link>/publication/proximalanddistal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/proximalanddistal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

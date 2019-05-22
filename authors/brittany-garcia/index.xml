@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brittany Garcia on Alexander Berman</title>
+    <link>/authors/brittany-garcia/</link>
+    <description>Recent content in Brittany Garcia on Alexander Berman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/brittany-garcia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toward a making community of practice: The social aspects of elementary classroom-based making</title>
+      <link>/publication/towardcop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/towardcop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the Meaningful 3D-Printed Object- Understanding the Materiality of 3D Prints</title>
+      <link>/publication/materiality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/materiality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

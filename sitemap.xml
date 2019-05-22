@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/3d-printing/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/becomingmakers/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/beth-nam/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brittany-garcia/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/celeste-lyn-paul/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/colin-banigan/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/community-of-practice/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/design-ideation/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/asee/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/digital-fabrication/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-deuermeyer/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/enrique-berrios/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/exploring3d/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francis-quek/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/makingtomicro-manufacture/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/m2/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hci/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-doss/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/leela-krishna/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/leming-yang/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/making/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/darknet/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/makingthemaker/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/malini-natarajarathinam/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mario-suarez/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-kuttolamadom/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/niloofar-zarei/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/osazuwa-okundaye/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/onlinemaking/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/proximalanddistal/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rachel-martin/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/self-efficacy/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/seth-posley/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sharon-chu/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/skylar-deady/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sourabh-bhangaonkar/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/towardcop/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/materiality/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tracy-hammond/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zepeng-huo/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/howdiy/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/trace/</loc>
+    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+</urlset>
