@@ -92,7 +92,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-140678340-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -137,6 +137,32 @@
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
   
 
@@ -253,9 +279,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects">
+          <a class="nav-link " href="/#publications">
             
-            <span>Projects</span>
+            <span>Publications</span>
             
           </a>
         </li>
@@ -286,9 +312,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications">
+          <a class="nav-link " href="/#projects">
             
-            <span>Publications</span>
+            <span>Projects</span>
             
           </a>
         </li>
@@ -437,8 +463,6 @@
         
         
         
-          
-        
         
         
         
@@ -446,8 +470,8 @@
           
         
         <li>
-          <a itemprop="sameAs" href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
+          <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=4pPaivMAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
         
@@ -461,8 +485,8 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=4pPaivMAAAAJ" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
+          <a itemprop="sameAs" href="/files/cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
         
