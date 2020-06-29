@@ -19,13 +19,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +36,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
   </url>
   
   <url>
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,7 +85,7 @@
   
   <url>
     <loc>/authors/celeste-lyn-paul/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,7 +97,7 @@
   
   <url>
     <loc>/tags/community-of-practice/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +108,7 @@
   
   <url>
     <loc>/tags/design-ideation/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,7 +119,7 @@
   
   <url>
     <loc>/tags/digital-fabrication/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,14 +157,34 @@
   </url>
   
   <url>
+    <loc>/authors/glen-hordemann/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/hci/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jay-woodward/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jeeeun-kim/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jessica-doss/</loc>
     <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/larry-powell/</loc>
     <priority>0</priority>
   </url>
   
@@ -182,7 +202,7 @@
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -194,12 +214,12 @@
   
   <url>
     <loc>/publication/darknet/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>/project/makingthemaker/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
   </url>
   
   <url>
@@ -244,7 +264,7 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,7 +275,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -277,7 +297,7 @@
   
   <url>
     <loc>/tags/self-efficacy/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,8 +327,12 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/tele/</loc>
   </url>
   
   <url>
@@ -335,12 +359,16 @@
   
   <url>
     <loc>/project/howdiy/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/trace/</loc>
     <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/anyone/</loc>
   </url>
   
 </urlset>

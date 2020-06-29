@@ -61,7 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/makingthemaker/</guid>
-      <description>The &amp;lsquo;Making the Maker&amp;rsquo; project is an NSF-funded project that aims to investigate how Making can be used to scaffold the interest of children, especially from underrepresented populations, to pursue STEM-related careers. The main mechanism through which the project aims to achieve this goal is to support the development of children&amp;rsquo;s identity as Makers by integrating Making activities longitudinally into the elementary school curricula.</description>
+      <description>The &amp;lsquo;Making the Maker&amp;rsquo; project is an NSF-funded project that aims to investigate how Making can be used to scaffold the interest of children, especially from underrepresented populations, to pursue STEM-related careers. The main mechanism through which the project aims to achieve this goal is to support the development of children&amp;rsquo;s identity as Makers by integrating Making activities longitudinally into the elementary school curricula. Alex has designed almost all hardware in collaboration with Multi-Disciplinary teams in Manufacturing, Education, and Psychology.</description>
     </item>
     
     <item>
@@ -70,6 +70,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publication/proximalanddistal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telepresence Robotics for Hands-on Distance Instruction</title>
+      <link>/publication/tele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tele/</guid>
       <description></description>
     </item>
     
@@ -97,6 +106,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publication/trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Anyone Can Print”: Supporting Collaborations with 3D Printing Services to Empower Broader Participation in Personal Fabrication</title>
+      <link>/publication/anyone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/anyone/</guid>
       <description></description>
     </item>
     
