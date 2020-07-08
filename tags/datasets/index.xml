@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on Alexander Berman</title>
+    <link>/tags/datasets/</link>
+    <description>Recent content in Datasets on Alexander Berman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ThingiPano: A Large-Scale Dataset of 3D Printing Metadata, Images, and Panoramic Renderings for Exploring Design Reuse</title>
+      <link>/publication/thingipano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thingipano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

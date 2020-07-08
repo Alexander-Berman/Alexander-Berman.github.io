@@ -19,13 +19,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-06-29T23:09:57-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,6 +107,12 @@
   </url>
   
   <url>
+    <loc>/tags/datasets/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/design-ideation/</loc>
     <lastmod>2020-06-29T16:56:28-05:00</lastmod>
     <priority>0</priority>
@@ -142,7 +148,7 @@
   
   <url>
     <loc>/authors/francis-quek/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,6 +164,7 @@
   
   <url>
     <loc>/authors/glen-hordemann/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -169,11 +176,13 @@
   
   <url>
     <loc>/authors/jay-woodward/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jeeeun-kim/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,6 +194,7 @@
   
   <url>
     <loc>/authors/larry-powell/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,13 +206,13 @@
   
   <url>
     <loc>/authors/leming-yang/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,7 +258,7 @@
   
   <url>
     <loc>/authors/osazuwa-okundaye/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -275,7 +285,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -297,7 +307,7 @@
   
   <url>
     <loc>/tags/self-efficacy/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -309,7 +319,7 @@
   
   <url>
     <loc>/authors/sharon-chu/</loc>
-    <lastmod>2019-05-22T11:23:53-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,12 +337,18 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-29T16:56:28-05:00</lastmod>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/tele/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thingipano/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
   </url>
   
   <url>
@@ -369,6 +385,7 @@
   
   <url>
     <loc>/publication/anyone/</loc>
+    <lastmod>2020-07-08T16:55:30-05:00</lastmod>
   </url>
   
 </urlset>
